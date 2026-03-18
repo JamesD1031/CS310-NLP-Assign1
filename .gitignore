@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv*/
+CS310_NLP_Assign1_submission.zip
+Lab/
+Lec/
